@@ -4,6 +4,7 @@
   <artifactId>UtilityApplication</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>MyMavenProject</name>
+  
   <plugins>
     <plugin>
       <groupId>org.apache.maven.plugins</groupId>
@@ -15,6 +16,7 @@
       </configuration>
     </plugin>
   </plugins>
+  
   <dependencies>
   	<dependency>
   		<groupId>org.junit.jupiter</groupId>
